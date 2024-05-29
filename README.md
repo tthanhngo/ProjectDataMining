@@ -9,6 +9,7 @@ Thành viên nhóm:
 •	Nguyễn Quốc Thịnh - 21110661
 
 •	Kiều Anh Thiên  - 21110746
+
 Quá trình thực hiện:
 1. Tìm và xử lý dữ liệu
 2. Cài đặt các kỹ thuật khai phá dữ liệu
